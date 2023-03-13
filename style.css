@@ -1,0 +1,88 @@
+body{
+background-color: black;
+}
+.rectangle{
+    position: absolute;
+    background-color: orange;
+    width: 828px;
+    height: 300px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.oval_short{
+    background-color: black;
+    width: 250px;
+    height: 300px;
+    border-radius: 50%;
+}
+.oval1{
+    margin-left: -130px;
+}
+.oval_long{
+    background-color: black;
+    width: 350px;
+    height: 200px;
+    border-radius: 50%;
+}
+.oval2{
+    margin-top: -150px;
+    margin-left: 80px;
+    transform: rotate(30deg);
+}
+.oval3{
+    margin-top: -200px;
+    margin-left: 395px;
+    transform: rotate(150deg);
+}
+.oval4{
+    margin-top: -350px;
+    margin-left: 700px;
+}
+.oval5{
+    background-color: black;
+    width: 300px;
+    height: 200px;
+    margin-left: 260px;
+    margin-top: -430px;
+    border-radius: 60px;
+}
+.head{
+    background-color: orange;
+    width: 80px;
+    height: 70px;
+    margin-left: 370px;
+    margin-top: -40px;
+    border-radius: 30px;
+}
+.triangle1{
+    width: 0;
+    height: 0;
+    border-bottom: 60px solid orange;
+    border-left: 30px solid transparent;
+    margin-left: 420px;
+    margin-top: -90px;
+}
+.triangle2{
+    width: 0;
+    height: 0;
+    border-bottom: 60px solid orange;
+    border-right: 30px solid transparent;
+    margin-left: 370px;
+    margin-top: -60px;
+}
+.cover{
+    background-color: black;
+    width: 170px;
+    height: 100px;
+}
+.cover1{
+    margin-top: 150px;
+}
+.cover2{
+    margin-top: -100px;
+    margin-left: 650px;
+}
